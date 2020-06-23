@@ -1,5 +1,6 @@
 # Algorithm-Design-and-Analysis
 Table of contents:
+
 Lab 1 - Merge sort and Insertion sort
 
 Lab 2 - Heap sort and Quick sort
